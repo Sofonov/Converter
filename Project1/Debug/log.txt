@@ -1,0 +1,56 @@
+-as1(Assembly) 00B501D0 ****
+--(Instance) 00B57600 *
+---rod-assembly(Assembly) 05AE393C ***
+----(Instance) 05B28760 *
+-----nut(Part)
+----(Instance) 05B28764 *
+-----nut(Part)
+----(Instance) 05B28768 *
+-----rod(Part)
+--(Instance) 00B57604 *
+---l-bracket-assembly(Assembly) 05AE463C ****
+----(Instance) 00B5A540 *
+-----nut-bolt-assembly(Assembly) 05AE46A4 **
+------(Instance) 05B289C8 *
+-------bolt(Part)
+------(Instance) 05B289CC *
+-------nut(Part)
+----(Instance) 00B5A544 *
+-----nut-bolt-assembly(Assembly) 05AE4FFC **
+------(Instance) 05B289C8 *
+-------bolt(Part)
+------(Instance) 05B289CC *
+-------nut(Part)
+----(Instance) 00B5A548 *
+-----nut-bolt-assembly(Assembly) 05AE55AC **
+------(Instance) 05B289C8 *
+-------bolt(Part)
+------(Instance) 05B289CC *
+-------nut(Part)
+----(Instance) 00B5A54C *
+-----l-bracket(Part)
+--(Instance) 00B57608 *
+---plate(Part)
+--(Instance) 00B5760C *
+---l-bracket-assembly(Assembly) 05AE567C ****
+----(Instance) 00B5A540 *
+-----nut-bolt-assembly(Assembly) 05AE46A4 **
+------(Instance) 05B289C8 *
+-------bolt(Part)
+------(Instance) 05B289CC *
+-------nut(Part)
+----(Instance) 00B5A544 *
+-----nut-bolt-assembly(Assembly) 05AE4FFC **
+------(Instance) 05B289C8 *
+-------bolt(Part)
+------(Instance) 05B289CC *
+-------nut(Part)
+----(Instance) 00B5A548 *
+-----nut-bolt-assembly(Assembly) 05AE55AC **
+------(Instance) 05B289C8 *
+-------bolt(Part)
+------(Instance) 05B289CC *
+-------nut(Part)
+----(Instance) 00B5A54C *
+-----l-bracket(Part)
+Для продолжения нажмите любую клавишу . . . 
